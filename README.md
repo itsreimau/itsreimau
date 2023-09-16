@@ -2,7 +2,7 @@
 
 - 👤 **Name**: Muhamad Ikbal Maulana
 - 📛 **Username**: iblmln
-- 🌎 **Location**: Bogor, Indonesia
+- 🌎 **Location**: Cisarua, Jawa Barat, Indonesia
 
 # 🚀 Interests
 
