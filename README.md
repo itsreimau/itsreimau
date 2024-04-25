@@ -1,4 +1,13 @@
-# Bot Developers | Dreamcore Enthusiasts | IT Enthusiasts | Virtual Entertainment Enthusiasts | etc.
+```
+  ___ _       ____      _                       
+ |_ _| |_ ___|  _ \ ___(_)_ __ ___   __ _ _   _ 
+  | || __/ __| |_) / _ \ | '_ ` _ \ / _` | | | |
+  | || |_\__ \  _ <  __/ | | | | | | (_| | |_| |
+ |___|\__|___/_| \_\___|_|_| |_| |_|\__,_|\__,_|
+```
+
+# About Me
+I am a Bot Developer, Dreamcore Enthusiast, IT Enthusiast, Virtual Entertainment Enthusiast, etc.
 
 [![Facebook](https://img.shields.io/badge/Facebook-itsreimau-blue)](https://www.facebook.com/itsreimau)
 [![Instagram](https://img.shields.io/badge/Instagram-itsreimau-purple)](https://www.instagram.com/itsreimau)
