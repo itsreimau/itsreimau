@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a href="https://itsreimau.surge.sh">
-      <img src="banner_rei-ayanami.gif" alt="banner">
+      <img src="banner_rei-ayanami.webp" alt="banner">
     </a>
   </p>
 
