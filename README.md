@@ -26,7 +26,7 @@
     </a>
   </p>
 
-  <p>🌟 I'm passionate about developing bots, exploring Dreamcore, diving into IT, and enjoying virtual entertainment!</p>
+  <p>🌟 I'm passionate about developing bots, exploring dreamcore, diving into IT and enjoying virtual entertainment!</p>
 
   <h2>Now Playing on Spotify 🎵</h2>
 
@@ -39,4 +39,4 @@
 
 ---
 
-<p align="center">Thanks for swinging by my profile!</p>
+<p align="center">Thank you for visiting my profile!</p>
