@@ -1,16 +1,18 @@
-<div align="center">
-    <img src="https://github.com/Art1ord/Art1ord/blob/main/assets/banner.jpg">
-</div>
+# Bot Developers | Dreamcore Enthusiasts | IT Enthusiasts | Virtual Entertainment Enthusiasts | etc.
 
-<div align="center">
-    <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
-    <img src="https://count.getloli.com/get/@itsreimau?theme=moebooru">
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-itsreimau-blue)](https://www.facebook.com/itsreimau)
+[![Instagram](https://img.shields.io/badge/Instagram-itsreimau-purple)](https://www.instagram.com/itsreimau)
+[![Telegram](https://img.shields.io/badge/Telegram-itsreimau-blue)](https://t.me/itsreimau)
+[![Twitter](https://img.shields.io/badge/Twitter-itsreimau-blue)](https://twitter.com/itsreimau)
 
-<div align="center">
-    <h2>Spotify</h2>
-</div>
+## GitHub Stats
 
-<div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
-</div>
+[![itsreimau's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsreimau&show_icons=true&theme=dark)](https://github.com/itsreimau)
+
+## Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31253dtz6tzyra5ewpcgpipeuefy)
+
+---
+
+Thanks for visiting my profile!
