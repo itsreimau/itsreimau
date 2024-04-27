@@ -26,7 +26,7 @@
     </a>
   </p>
 
-  <p>🌟 I'm passionate about developing bots, exploring dreamcore, diving into IT and enjoying virtual entertainment!</p>
+  <p>🌟 My name is Muhamad Ikbal Maulana alias ItsReimau. I am a Bot Developer, IT Enthusiast, Virtual Entertainment Enthusiast, etc.</p>
 
   <h2>Now Playing on Spotify 🎵</h2>
 
