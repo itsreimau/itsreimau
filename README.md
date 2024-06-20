@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://itsreimau.surge.sh">
+    <a href="https://itsreimau.is-a.dev">
       <img src="banner_rei-ayanami.webp" alt="banner">
     </a>
   </p>
@@ -26,7 +26,7 @@
     </a>
   </p>
 
-  <p>🌟 My name is Muhamad Ikbal Maulana alias ItsReimau. I am a Bot Developer, IT Enthusiast, Virtual Entertainment Enthusiast, etc.</p>
+  <p>🌟 Hello! My name is Muhamad Ikbal Maulana alias ItsReimau. I am a Bot Developer, IT Enthusiast, Virtual Entertainment Enthusiast, etc.</p>
 
   <h2>Now Playing on Spotify 🎵</h2>
 
