@@ -26,7 +26,7 @@
     </a>
   </p>
 
-  <p>🌟 Hello! My name is Muhamad Ikbal Maulana alias ItsReimau. I am a Bot Developer, Evangelion Fan, IT Enthusiast, Office Science Student, and Virtual Entertainment Enthusiast.</p>
+  <p>🌟 Hello! My name is Muhamad Ikbal Maulana alias ItsReimau. Nobody, just someone who likes Evangelion and programming.</p>
 
   <h2>Now Playing on Spotify 🎵</h2>
 
