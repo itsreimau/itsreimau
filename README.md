@@ -50,7 +50,7 @@
   </p>
 
   <p>
-    🌟 Hello! My name is Muhamad Ikbal Maulana alias ItsReimau. Nobody, just someone who loves Evangelion and programming.
+    🌟 Hello! My name is Muhamad Ikbal Maulana, and my username is ItsReimau. I am also often called Ikbal, Reimau, or Lunar. An enthusiast of Evangelion and programming.
   </p>
 
   <h2>🎧 Now Playing on Spotify 🎵</h2>
