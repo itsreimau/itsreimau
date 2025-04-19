@@ -9,7 +9,7 @@
 <div align="center">
   <p>
     <a href="https://itsreimau.is-a.dev">
-      <img src="banner_rei-ayanami.webp" alt="Rei Ayanami Banner" width="80%">
+      <img src="assets/banner.webp" alt="Banner" width="80%">
     </a>
   </p>
 
@@ -50,7 +50,7 @@
   </p>
 
   <p>
-    🌟 Hello! My name is Muhamad Ikbal Maulana, and my username is ItsReimau. I am also often called Ikbal, Reimau, or Lunar. An enthusiast of Evangelion and programming.
+    🌟 Hello! My name is Muhamad Ikbal Maulana, and my username is ItsReimau. An enthusiast of Evangelion and programming.
   </p>
 
   <h2>🎧 Now Playing on Spotify 🎵</h2>
